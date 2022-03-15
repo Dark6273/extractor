@@ -35,7 +35,7 @@ Extract links from sites with the ability to penetrate the sub-layers
 git clone https://github.com/Dark6273/extractor.git
 cd extractor
 pip3 install -r requirements.txt
-python3 main.py
+python3 extractor.py
 ```
 
 ## Contact us
