@@ -1,11 +1,8 @@
 # Import needed library
 from colorama import Fore
-from pyfiglet import Figlet
 from os import system, name
 from time import sleep
 
-
-f = Figlet(font='big')
 
 
 # Main logo
